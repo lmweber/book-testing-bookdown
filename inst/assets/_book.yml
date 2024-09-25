@@ -2,6 +2,7 @@ book:
   title: "BookTestingBiocBook"
   chapters:
     - index.qmd
+    - pages/background.qmd
   cover-image: assets/cover.png
   favicon: assets/favicon.png
   sidebar: 
