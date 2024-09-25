@@ -1,0 +1,8 @@
+# Introduction {#sec-introduction}
+
+
+## Overview
+
+This book provides discussion and interactive examples on best practices for computational analysis workflows for spatial transcriptomics data, using the [Bioconductor](http://bioconductor.org/) framework within R.
+
+
